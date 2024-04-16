@@ -8,12 +8,15 @@
   
 - 🌱 I’m currently studying **FPTU University (Hanoi)**
 
+- 📝 I regularly write what I learn and do to git
+
+- 🚫 My secret [here](https://www.youtube.com/watch?v=uKxyLmbOc0Q&list=PLofuRe3nPvPCiwgx400CW9RABowKZkpSH&index=12)
+
 <h3 align="left">
  <img src="https://i.pinimg.com/originals/33/d8/23/33d823cbde2b0178a512825337fac3e4.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats </b></i><img src="https://i.pinimg.com/originals/33/d8/23/33d823cbde2b0178a512825337fac3e4.gif" width="30px" alt="GitHub-Status"/></h3>
-<p align= "left">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=vanniichan&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanniichan&theme=react&layout=compact" />
-</p>
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=vanniichan&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanniichan&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <hr>
 
