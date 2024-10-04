@@ -30,6 +30,7 @@
 </div>
 ------
 <div style="display: flex; align-items: center;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/TwentySeV.png" alt="TryHackMe" style="margin-right: 10px;">
-    <img src="https://www.hackthebox.com/badge/image/1798031" alt="HackTheBox">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/TwentySeV.png" alt="TryHackMe" style="margin-right: 10px; width: 220px;">
+    <img src="https://www.hackthebox.com/badge/image/1798031" alt="HackTheBox"">
 </div>
+
